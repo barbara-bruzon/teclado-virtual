@@ -8,16 +8,16 @@ html{
 
 button{
     font-size: 20px;
-    width: 50px;
-    length: 50px;
+    width: 100px;
     background-color: rgb(189, 180, 180);
     color: rgb(0, 0, 0);
-    margin: 2px;
+    margin: 5px;
 }
 
 .texto{
-    font-size: 20px;
-    width: 150px;
+    font-size: 100px;
+    width: 310px;
+    height: 100px;
     display: flex;
     justify-content: center;
     border: solid black;
@@ -36,20 +36,11 @@ button{
 }
 
 .delete{
-    font-size: 20px;
-    width: 50px;
-    length: 50px;
     background-color: rgb(253, 0, 0);
     color: rgb(0, 0, 0);
-    margin: 2px;
-
 }
 
 .ok{
-    font-size: 20px;
-    width: 50px;
-    length: 50px;
     background-color: rgb(51, 255, 0);
     color: rgb(0, 0, 0);
-    margin: 2px;
 }
